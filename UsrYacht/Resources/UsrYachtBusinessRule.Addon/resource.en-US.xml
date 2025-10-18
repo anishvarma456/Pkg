@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.355cebfb-1e37-e38a-f7ae-23f5d3c967f8.Caption" Value="ChildRule-c5742d3e-7b01-ac31-4212-e3a307cadb5e-ClearValue" />
+			<Item Name="AddonConfig.Rules.a46367aa-608f-7dcf-8e20-8db431554745.Caption" Value="Set values: Comment" />
+			<Item Name="AddonConfig.Rules.c4280550-ba99-a162-1d60-bfe39b234d93.Caption" Value="ChildRule-c5742d3e-7b01-ac31-4212-e3a307cadb5e-PopulateValue" />
+			<Item Name="AddonConfig.Rules.c5742d3e-7b01-ac31-4212-e3a307cadb5e.Caption" Value="Apply filter: City" />
+			<Item Name="Caption" Value="Yacht (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
