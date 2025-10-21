@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5523a0f8-df52-4e58-a88e-45b5eac03833",
+    "Name": "UsrSelectedYachtCategory",
+    "ModifiedOnUtc": "\/Date(1761042964000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Selected Yacht Category",
+    "DependsOn": []
+  }
+}
